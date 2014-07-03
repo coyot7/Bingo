@@ -1,0 +1,14 @@
+D:\VS\C#\WPF\Bingo\Bingo\bin\Debug\Bingo.exe.config
+D:\VS\C#\WPF\Bingo\Bingo\bin\Debug\Bingo.exe
+D:\VS\C#\WPF\Bingo\Bingo\bin\Debug\Bingo.pdb
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\MainWindow.baml
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\MainWindow.g.cs
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\App.g.cs
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo_MarkupCompile.cache
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo.g.resources
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.Cache
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo.exe
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo.pdb
+D:\VS\C#\WPF\Bingo\Bingo\obj\Debug\Bingo_MarkupCompile.lref
